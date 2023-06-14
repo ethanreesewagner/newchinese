@@ -1,7 +1,7 @@
 # newchinese
 check out the jupyter notebook file and open it
 
-'''
+
 these characters are every existing syllable in chinese:
 
 知赤是日子此斯八趴马发大他那拉嘎卡哈吒查莎扎草山百拍买
@@ -19,13 +19,13 @@ should be used with the accents from these characters above them:
 āéǐòüǜǚǘǖ
 
 and then people will only have to learn 267 chinese characters instead of 50,000
-'''
 
-'''typing will be done with this keyboard but with extra accent buttons 
+
+typing will be done with this keyboard but with extra accent buttons 
 (it will work like pinyin where you will type the pronounciation
 of each character but instead there will be no dumb pop up 
 menu bar because you can type the accent already):
-'''
-#(or you could use hangul with accents on top ;)
 
-<img>https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDayi_method&psig=AOvVaw2uKhfgNwndZuG_QR9uU2U5&ust=1686820051198000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODiyMG0wv8CFQAAAAAdAAAAABAE</img>
+(or you could use hangul with accents on top ;)
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDayi_method&psig=AOvVaw2uKhfgNwndZuG_QR9uU2U5&ust=1686820051198000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODiyMG0wv8CFQAAAAAdAAAAABAE"></img>
