@@ -28,4 +28,4 @@ menu bar because you can type the accent already):
 
 (or you could use hangul with accents on top ;)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDayi_method&psig=AOvVaw2uKhfgNwndZuG_QR9uU2U5&ust=1686820051198000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODiyMG0wv8CFQAAAAAdAAAAABAE"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mtr_keyboard_1.jpg/1200px-Mtr_keyboard_1.jpg"></img>
